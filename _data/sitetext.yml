@@ -171,7 +171,7 @@ en-AU:
 es: &DEFAULT_ES
   header:
     title: ¡Bienvenido a mi clase!
-    text: Es un placer conocerte
+    text: Un placer conocerte
     button: Ver más
     buttonlink: "#servicios"
 
@@ -181,43 +181,39 @@ es: &DEFAULT_ES
     section: servicios
     list:
       - title: "Clases online"
-        desc: "Explora un enfoque de aprendizaje que va más allá de lo que la escuela tradicional ofrece. En mis clases particulares
-        de matemáticas, te ayudaré a aprender de manera rápida y sencilla lo que a menudo no se enseña en la escuela. 
-        Rompemos barreras y simplificamos conceptos matemáticos, permitiéndote adquirir un conocimiento sólido de manera efectiva. 
-        Aprende no solo a resolver ecuaciones, sino también a comprender la aplicabilidad de las matemáticas en la vida diaria. 
-        ¡Prepárate para un viaje educativo que va más allá de los límites de la escuela y te lleva hacia un aprendizaje de verdad!"
-        icon: fas fa-face-smile-hearts #find more at https://fontawesome.com/icons
-      - title: "Diseño Responsivo"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Su descripción aquí, soporte completo de **Markdown**"
-        icon: fab fa-markdown
+        desc: "Domina las matemáticas de manera **rápida** y **sencilla**, aprendiendo lo que la escuela no enseña estés donde estés."
+        icon: fa-solid fa-mobile-screen-button #find more at https://fontawesome.com/icons
+      - title: "Asesoramiento por Whatsapp"
+        desc: "Contacto directo, **responderemos** tus dudas lo más pronto posible."
+        icon: fa-brands fa-whatsapp
+      - title: "[Redes sociales](https://www.tiktok.com/@phiasesoriaenmate)"
+        desc: "Porque los libro no son la unica manera de aprender"
+        icon: fa-brands fa-tiktok
 
   portfolio:
     title: "Portafolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    text: "Un poco de mi trabajo."
     section: portafolio
     closebutton: "Cerrar Proyecto"
 
   timeline:
     title: "Cronología"
-    text: "Lorem ipsum timeline"
+    text: "Quien es el Profe Sau"
     section: cronologia
     # left is the default
     #start_align: "left"
     events:
       - title: "Nuestro Humilde Comienzo"
-        year: "2009-2011"
+        year: "2018-2019"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
         image: assets/img/timeline/1.jpg
         alt:
-      - title: "Una Agencia nace"
+      - title: "Nace la idea"
         year: "March 2011"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
         image: assets/img/timeline/2.jpg
         alt:
-      - title: "La plantilla Jekyll es creada"
+      - title: "Creo Phi Asesoria en Matematicas"
         year: "2019"
         desc: "Ravi Riley convirtió Agency, una plantilla basada en Bootstrap, en una plantilla de Jekyll. La plantilla Jekyll puede ser instalada commo una gema de Ruby (Ruby gem) o remotamente. Para más información, visite la documentación."
         image: assets/img/timeline/3.jpg
