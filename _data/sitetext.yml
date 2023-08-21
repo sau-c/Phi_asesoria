@@ -177,13 +177,13 @@ es: &DEFAULT_ES
 
   services:
     title: "Servicios"
-    text: "Lorem ipsum"
+    text: "Lo que no te enseñan en la escuela"
     section: servicios
     list:
-      - title: "Clases en linea"
+      - title: "Clases particulares"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas mobile-screen-button #find more at https://fontawesome.com/icons
-      - title: "Diseño Responsivo"
+        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+      - title: "Clases grupales"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         icon: fas fa-laptop
       - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
@@ -192,7 +192,7 @@ es: &DEFAULT_ES
 
   portfolio:
     title: "Portafolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    text: "Un poco de mi trabajo."
     section: portafolio
     closebutton: "Cerrar Proyecto"
 
@@ -203,7 +203,7 @@ es: &DEFAULT_ES
     # left is the default
     #start_align: "left"
     events:
-      - title: "Nuestro Humilde Comienzo"
+      - title: "Humilde Comienzo"
         year: "2009-2011"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
         image: assets/img/timeline/1.jpg
