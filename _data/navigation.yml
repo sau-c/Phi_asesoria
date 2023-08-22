@@ -42,16 +42,12 @@ es: &DEFAULT_ES
       section: servicios
     - title: "Portafolio"
       section: portafolio
-    - title: "Nosotros"
-      section: nosotros
     - title: "Cronología"
       section: cronologia
     - title: "Equipo"
       section: equipo
     - title: "Contactanos"
       section: contacto
-    - title: "Plantilla"
-      url: https://github.com/raviriley/agency-jekyll-theme/
 es-ES:
   <<: *DEFAULT_ES
 es-CO:
