@@ -21,9 +21,10 @@ title      : Phi - Asesoría en Matemáticas
 email      : your-email@example.com #this is also the email contact forms will go to
 description: "Agency Bootstrap theme converted to a Jekyll theme, plus new features: Google Analytics, Markdown support, custom pages, and more!"
 author     : Profe Sau
-# logo:     #optional, defaults to site title
-  # path: assets\img\clients\creative-market.jpg
-  # height: 60 #height in px, defaults to 52px
+ 
+logo:     #optional, defaults to site title
+  path: assets\img\Phi_blanco.png
+  height: 60 #height in px, defaults to 52px
 
 locale: "es-ES" # See available languages in _data/sitetext.yml
 
