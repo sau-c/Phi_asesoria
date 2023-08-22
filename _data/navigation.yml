@@ -44,9 +44,7 @@ es: &DEFAULT_ES
       section: portafolio
     - title: "Cronología"
       section: cronologia
-    - title: "Equipo"
-      section: equipo
-    - title: "Contactanos"
+    - title: "Contacto"
       section: contacto
 es-ES:
   <<: *DEFAULT_ES
